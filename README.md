@@ -1,3 +1,4 @@
+I want that you know that this fork not useful for you!!! I sure
 # Video.js Resolution Switcher [![Build Status](https://travis-ci.org/kmoskwiak/videojs-resolution-switcher.svg?branch=master)](https://travis-ci.org/kmoskwiak/videojs-resolution-switcher) 
 
 Resolution switcher for [video.js v5](https://github.com/videojs/video.js)
